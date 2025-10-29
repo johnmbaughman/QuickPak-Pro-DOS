@@ -1,6 +1,7 @@
 '********** APRINTT.BAS - APrint demo for fixed-length strings
 
 'Copyright (c) 1988 Ethan Winer
+'Released as Public Domain in October, 2018.
 
 
 'IMPORTANT NOTE:  To run this program you MUST start QB like this:
